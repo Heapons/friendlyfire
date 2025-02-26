@@ -18,7 +18,7 @@
 #pragma newdecls required
 #pragma semicolon 1
 
-static RoundState g_roundState;
+//static RoundState g_roundState;
 
 TFTeam TF2_GetEntityTeam(int entity)
 {
